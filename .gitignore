@@ -1,0 +1,23 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+
+# Database
+*.db
+
+# Node
+node_modules/
+
+# Environment
+.env
+
+# Build
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
